@@ -34,6 +34,9 @@ This project is part of my journey through I focused on **analyzing firewall log
 ## 🔍 Commands Used
 
 sudo ufw enable
-sudo ufw status verbose
+
+sudo ufw status 
+
 sudo tail -f /var/log/ufw.log
-grep 'SRC=' /var/log/ufw.log | awk '{print $NF}' | sort | uniq -c | sort -nr
+
+grep 'SRC=' /var/log/ufw.log 
