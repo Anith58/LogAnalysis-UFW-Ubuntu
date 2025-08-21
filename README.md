@@ -13,7 +13,7 @@ This project is part of my journey through I focused on **analyzing firewall log
 | Attacker       | Kali Linux (VirtualBox/VMware) |
 | Firewall Tool  | UFW (Uncomplicated Firewall) |
 | Attack Tool    | Nmap                        |
-| Analysis Tools | grep, awk, less, tail       |
+| Analysis Tools | grep, less, tail       |
 
 ---
 
