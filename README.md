@@ -39,4 +39,4 @@ sudo ufw status
 
 sudo tail -f /var/log/ufw.log
 
-grep 'SRC=' /var/log/ufw.log 
+grep Failed /var/log/ufw.log 
